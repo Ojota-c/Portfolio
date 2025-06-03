@@ -164,4 +164,8 @@ h1 {
     line-height: 1.25rem;
 }
 
-.paragrafo-projetos[]
+.paragrafo-projetos{
+    padding: 1rem;
+    font-size: 1.1rem;
+    color: var(--claro);    
+}
