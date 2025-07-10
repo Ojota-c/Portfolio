@@ -91,6 +91,7 @@ h1 {
 }
 
 .cabecalho-sub-titulo {
+    font-family: "Orbitron", sans-serif;
     font-size: 1.7rem;
     color: var(--claro);
 }
@@ -123,6 +124,29 @@ h1 {
     font-size: 1.2rem;
 }
 
+.conhecimento-titulo {
+    font-size: 3rem;
+    color: var(--claro);
+    text-align: center;
+    margin-top: 120px;
+    margin-bottom: 20px;
+}
+
+.conhecimento-caixa {
+    padding: 2rem;
+    max-width: 800px;
+    margin: 0 auto;
+    border-radius: 16px;
+    border: 1px solid var(--vidro);
+    backdrop-filter: blur(10px);
+    background: rgba(255, 255, 255, 0.05);
+}
+
+.conhecimento-paragrafo{
+    font-family: "Orbitron", sans-serif;
+    text-align: center;
+    font-size: 1.2rem;
+}
 
 .projetos-titulo {
     text-align: center;
